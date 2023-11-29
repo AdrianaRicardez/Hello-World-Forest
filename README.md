@@ -7,6 +7,7 @@ Pagina web usando el lenguaje de programación HTML y CSS
  </ol>
 
 ### Vista Previa
-![image](file:///C:/Users/adial/Documents/Tecnochicas/HelloForest_Flexbox/index.html)
+![image](![image](https://github.com/AdrianaRicardez/Hello-World-Forest/assets/151890820/c18e82b0-1297-4170-8d54-a279b616cc28)
+
 
 
